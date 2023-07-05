@@ -8,7 +8,7 @@ div{
 }
 h3{
     color: chocolate;
-    font-size: large;
+    font-size: 38px;
     text-align: center;
 }
 p{
@@ -16,6 +16,7 @@ p{
     font-size: 18px;    
     padding: 10px;
     border-radius: 5px;
+    color: blue;    
 }
 
 img{
